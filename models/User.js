@@ -1,3 +1,5 @@
+// VATSAL GABANI [gabanivatsal17@gmail.com]
+
 const mongoose = require('mongoose');
 
 const userSchema = new mongoose.Schema({

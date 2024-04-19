@@ -1,3 +1,6 @@
+// VATSAL GABANI [gabanivatsal17@gmail.com]
+
+// Import dependencies
 const express = require('express');
 const mongoose = require('mongoose');
 const userRoutes = require('./routes/userRoutes');
